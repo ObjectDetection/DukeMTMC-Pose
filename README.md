@@ -1,8 +1,14 @@
 # DukeMTMC-Pose
-Pedestrian Pose for DukeMTMC-reID (Python and Matlab API)
+Pedestrian Pose for [DukeMTMC-reID](https://github.com/layumi/DukeMTMC-reID_evaluation)(Python and Matlab API)
 
 ### Data
-18 pedestrian body points have been included in json format. 
+18 pedestrian body points have been included in `result` folder.
+
+|File  | Description | 
+| --------   | -----  |
+|gallery_points.json  | The points of gallery images. |
+|train_points.json  | The points of training images.|
+|query_points.json  | The points of query images.|
 
 We generated the pose by [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose). 
 Thank their great works. 
