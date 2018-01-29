@@ -2,7 +2,10 @@
 Pedestrian Pose for DukeMTMC-reID (Python and Matlab API)
 
 ### Data
-The 18 pedestrian body points have include in `result`.
+The 18 pedestrian body points have been included in `result`. 
+
+We generated the pose by [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose). 
+Thank their great works.
 
 ### API
 
